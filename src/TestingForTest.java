@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class TestingForTest {
+    static void main(String[] args) {
+
+    }
 }
