@@ -1,1 +1,3 @@
+void main(String[] args) {
 
+}
