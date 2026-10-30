@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c8b3d2b-f58a-476f-919b-5a924761433d" name="Changes" comment="saved">
+      <change beforePath="$PROJECT_DIR$/src/second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shubh72380"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shubh72380/Project_72380.git",
+    "accountId": "85ecbf0b-a7a4-4830-b51a-14fee3e6eb51"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001037923496159" />
+      <entry key="S2" value="1.3605136751007836" />
+      <entry key="S5" value="3.9363119408994645" />
+      <entry key="S10" value="7.969278280412564" />
+      <entry key="S30" value="14.37974253868344" />
+      <entry key="S60" value="17.31822880467734" />
+      <entry key="M2" value="23.229482864513855" />
+      <entry key="M5" value="43.19542564233672" />
+      <entry key="M10" value="62.650224061189036" />
+      <entry key="M15" value="72.78165783823016" />
+      <entry key="M30" value="85.91976015150163" />
+      <entry key="H1" value="97.47337517709555" />
+      <entry key="H2" value="126.31029942676888" />
+      <entry key="H4" value="179.93184449993845" />
+      <entry key="D1" value="293.5798017661714" />
+      <entry key="W1" value="325.23746115140193" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.127788599402423E-7" />
+      <entry key="MS500" value="0.04077984211527993" />
+      <entry key="S2" value="0.4493775633055149" />
+      <entry key="S5" value="0.7261804520160368" />
+      <entry key="S10" value="0.8521622216550302" />
+      <entry key="S30" value="0.948070774288709" />
+      <entry key="S60" value="0.9736892596145389" />
+      <entry key="M2" value="0.9867569404947395" />
+      <entry key="M5" value="0.9946815808278722" />
+      <entry key="M10" value="0.9973372494836974" />
+      <entry key="M15" value="0.9982296973298951" />
+      <entry key="M30" value="1.0069836089977071" />
+      <entry key="H1" value="1.3189374098580138" />
+      <entry key="H2" value="3.205277525398796" />
+      <entry key="H4" value="7.020558680734315" />
+      <entry key="D1" value="15.262330645763523" />
+      <entry key="W1" value="17.57777228647552" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.06037102056316621" />
+      <entry key="MS500" value="0.5759765999328695" />
+      <entry key="S2" value="1.4604122298730564" />
+      <entry key="S5" value="4.393741045996032" />
+      <entry key="S10" value="8.640577126316945" />
+      <entry key="S30" value="15.25182590448505" />
+      <entry key="S60" value="18.251369253801215" />
+      <entry key="M2" value="24.194865457307632" />
+      <entry key="M5" value="44.18056188528174" />
+      <entry key="M10" value="63.64230039450051" />
+      <entry key="M15" value="73.77620538542956" />
+      <entry key="M30" value="86.92477976951362" />
+      <entry key="H1" value="98.7911377250765" />
+      <entry key="H2" value="129.51449455431327" />
+      <entry key="H4" value="186.95136411638273" />
+      <entry key="D1" value="308.84177963509364" />
+      <entry key="W1" value="342.8151758250487" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LPQuQr1slVUx9qGBZhL2zrIaJW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GitTest.executor": "Run",
+    "Application.second.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Test_repo/Project_72380",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.second">
+    <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GitTest" />
+      <module name="Project_72380" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second" />
+      <module name="Project_72380" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.second" />
+        <item itemvalue="Application.GitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8b3d2b-f58a-476f-919b-5a924761433d" name="Changes" comment="" />
+      <created>1793353444739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793353444739</updated>
+      <workItem from="1793353445928" duration="6953000" />
+    </task>
+    <task id="LOCAL-00001" summary="saved">
+      <option name="closed" value="true" />
+      <created>1793359794261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793359794261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="saved" />
+    <option name="LAST_COMMIT_MESSAGE" value="saved" />
+  </component>
+</project>
